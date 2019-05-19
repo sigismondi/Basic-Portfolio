@@ -1,4 +1,4 @@
-sigismondi.cool
+Future Domain name "sigismondi.cool"
 
 Info:
 This site contains links to my projects current and future.
@@ -8,11 +8,30 @@ Made with lots of love in Philadelphia.
 Changelog. 
 
 Version.001:Created /index.html /contact.html /style.css
-/portfolio.html /assets /images /css 
+/portfolio.html /assets /images /css Included reset.css
 
-Version .1: Added bio information background image  
+Version 0: Added bio information placeholder image  
+created the text input field in contact page.
+added a nav bar with links to contact.html index.html and portfolio.html.
 
-Version .2 Added content to html files place
+Version 1.0: 
+Added content to my html files. 
+Created and linked my style sheet.
+Added in Fonts and Colors.
+linked images in css and html.
+added in floats and margins. 
+Sized elements in css.
+
+version 1.1
+corrected the nav bar.
+corrected the profile page. 
+added in details in bio.
+corrected file structure of site.
+proofred the syntax of as best as possible on css and html.
+(Margins are still not correct)
+(Overall spacing and scaling still not 100%)
+
+
 
 
 
